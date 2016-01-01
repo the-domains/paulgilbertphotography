@@ -1,0 +1,28 @@
+name: PaulGilbertPhotography
+favicon: null
+layout_spectrum: 0.925152973504737
+typography_spectrum: 0.24105859594419599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1171765998005867
+  lightness: 0.1555786405224353
+  saturation: 0.9206720136571676
+  rhythmicContrast: 0.43815960153006017
+purpose: []
