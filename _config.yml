@@ -1,7 +1,7 @@
 name: PaulGilbertPhotography
 favicon: null
-layout_spectrum: 0.925152973504737
-typography_spectrum: 0.24105859594419599
+layout_spectrum: 0.94083
+typography_spectrum: 0.16329
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.1171765998005867
-  lightness: 0.1555786405224353
-  saturation: 0.9206720136571676
-  rhythmicContrast: 0.43815960153006017
+    - '#fcfdff'
+    - '#000000'
+    - '#485a00'
+    - '#223100'
+    - '#a29c96'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
